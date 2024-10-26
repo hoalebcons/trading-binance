@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 import time
 
 # Thay thế bằng API Key và Secret của bạn
-api_key = 'zfL1orTedZUG554wxF8kjzvhTUgpZhiw1jopGJUKCj7XcQOFVaZJR6c0YjO3UzZ0'
-api_secret = 'sQ8brbaQC8b1NEI0YmkNzGp3FJ3pD5h5dVOHLlBTkX0Jy8yVuF4KHbl5lqO04K3O'
+api_key = ''
+api_secret = ''
 
 # Khởi tạo Client
 client = Client(api_key, api_secret)
